@@ -39,10 +39,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a junior software developer with experience in JavaScript, and
-        expertise in frameworks like React, Node.js, and Three.js. I'm a quick
-        learner and collaborate closely with collegues to create efficient,
-        scalable, and user-friendly solutions that solve real-world problems.
+        I'm a curious software engineer who is eager to learn and ready to kick
+        start her career in software programming. As a Promineo Tech bootcamp
+        graduate, I have created frontend projects using Javascript, React,
+        Bootstrap, HTML, and CSS. I am seeking mentorship and guidance in a
+        junior software engineer role where I can leverage my skills and those
+        of my colleagues, and together drive growth and make a positive impact.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
