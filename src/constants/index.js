@@ -126,10 +126,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "April 2014 - March 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Provide customer service to 40+ people on a daily basis.",
+      "Maintain an organized and fully stocked sales floor to reach six-digit monthly sales goal.",
+      "Assist store manager with administrative tasks such as making phone calls, sending emails, and scanning documents.",
+      "Update and file delivery and inventory logs with the utmost accuracy.",
     ],
   },
   {
@@ -139,10 +139,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2014 - May 2017",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Enrolled in the B.A. Business Administration program with a concentration in Entertainment and Tourism Management.",
     ],
   },
   {
@@ -152,10 +149,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "August 2017 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Process sales transactions quickly and effectively while adhering to company policies.",
+      "Maintain adequate cash denominations and reconcile cash drawers.",
+      "Assist closing manager with the cash register closing procedure and cash balance.",
+      "Troubleshoot POS systems, TGT  system, card readers, and other devices when necessary.",
     ],
   },
   {
@@ -178,10 +175,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Co-lead integrated digital platform, in which store inventory helps fulfill online demand, generating an additional daily revenue of $6,000+ for the store.",
+      "Use RFID system and devices to complete e-commerce orders to achieve faster deliveries and ensure store continues to produce the highest volume of online sales in the region.",
+      "Coordinate with other departments and teams in the replenishment and transferring of 700+ units of merchandise to ensure accurate stock levels.",
+      "Communicate with managers and regional supervisors of improvements to the SINT application and the integrated RFID system.",
     ],
   },
 ];
