@@ -139,7 +139,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2014 - May 2017",
     points: [
-      "Enrolled in the B.A. Business Administration program with a concentration in Entertainment and Tourism Management.",
+      "Completed the B.A. Business Administration Program with a concentration in Entertainment and Tourism Management.",
     ],
   },
   {
@@ -162,10 +162,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2023 - August 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Completed the 18-week program, consisting of three courses, where I learn the skills and technologies necessary to enter the industry as a Front End Software Developer.",
+      "Introduction to JavaScript - JavaScript basics, Algorithms, OOP, DevTools, Unit Testing, Git, Github",
+      "Front End Technologies - HTML, CSS, Bootstrap, jQuery, AJAX",
+      "Web App Design with React - React basics, Webpack, REST, React Router, NPM, AWS ",
     ],
   },
   {
